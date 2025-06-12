@@ -48,6 +48,11 @@ public class ValidadorExistencias {
         List<SolicitudLibro> solicitudes = new ArrayList<>();
         try (BufferedReader reader = Files.newBufferedReader(rutaArchivo)) {
             String linea;
+
+            // LÍNEA AÑADIDA PARA SOLUCIONAR EL ERROR
+            // Esto lee y descarta la primera línea (el encabezado).
+            reader.readLine();
+
             while ((linea = reader.readLine()) != null) {
                 String[] datos = linea.split(";");
                 if (datos.length >= 7) {
