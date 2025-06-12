@@ -1,0 +1,5 @@
+25;Cien Años de Soledad;Gabriel García Márquez;Novela mágica;1967-05-30;Sudamericana;20.50
+20;Frankenstein;Mary Shelley;Terror científico;1818-01-01;Lackington, Hughes, Harding, Mavor & Jones;13.00
+3;Alicia en el país de las maravillas;Lewis Carroll;Fantasía infantil;1865-11-26;Macmillan Publishers;12.50 
+11;El Principito;Antoine de Saint-Exupéry;Cuento filosófico;1943-04-06;Reynal & Hitchcock;10.00
+23;El retrato de Dorian Gray;Oscar Wilde;Filosofía y horror;1890-07-20;Lippincott's Monthly Magazine;14.50

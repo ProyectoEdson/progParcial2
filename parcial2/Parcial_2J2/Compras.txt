@@ -1,0 +1,26 @@
+ID;Título;Autor;Género;Fecha de publicación;Editorial;Precio
+1;1984;George Orwell;Distopía política;1949-06-08;Secker & Warburg;15.00
+2;Matar a un ruiseñor;Harper Lee;Drama social;1960-07-11;J.B. Lippincott & Co.;16.00
+3;Alicia en el país de las maravillas;Lewis Carroll;Fantasía infantil;1865-11-26;Macmillan Publishers;12.50
+4;Don Quijote de la Mancha;Miguel de Cervantes;Novela de caballería;1605-01-16;Francisco de Robles;18.00
+5;La Metamorfosis;Franz Kafka;Realismo absurdo;1915-10-01;Kurt Wolff Verlag;11.50
+6;Crimen y Castigo;Fyodor Dostoyevsky;Psicología criminal;1866-01-01;The Russian Messenger;17.00
+7;Rayuela;Julio Cortázar;Narrativa experimental;1963-06-28;Sudamericana;19.50
+8;Fahrenheit 451;Ray Bradbury;Ciencia ficción;1953-10-19;Ballantine Books;14.00
+9;La sombra del viento;Carlos Ruiz Zafón;Misterio literario;2001-04-12;Planeta;21.00
+10;Los juegos del hambre;Suzanne Collins;Distopía juvenil;2008-09-14;Scholastic Press;13.50
+11;El Principito;Antoine de Saint-Exupéry;Cuento filosófico;1943-04-06;Reynal & Hitchcock;10.00
+12;It;Stephen King;Terror psicológico;1986-09-15;Viking Press;22.00
+13;Ensayo sobre la ceguera;José Saramago;Ficción filosófica;1995-05-18;Caminho;16.80
+14;Orgullo y prejuicio;Jane Austen;Romance clásico;1813-01-28;T. Egerton;12.00
+15;El nombre de la rosa;Umberto Eco;Misterio histórico;1980-09-01;Bompiani;20.00
+16;Las aventuras de Tom Sawyer;Mark Twain;Novela infantil;1876-06-17;American Publishing Company;11.00
+17;Drácula;Bram Stoker;Terror gótico;1897-05-26;Archibald Constable & Company;13.70
+18;La ladrona de libros;Markus Zusak;Ficción histórica;2005-03-14;Picador;15.20
+19;El perfume;Patrick Süskind;Thriller psicológico;1985-10-01;Diogenes Verlag;14.75
+20;Frankenstein;Mary Shelley;Terror científico;1818-01-01;Lackington, Hughes, Harding, Mavor & Jones;13.00
+21;Corazón de tinta;Cornelia Funke;Fantasía juvenil;2003-09-23;Chicken House;12.90
+22;La carretera;Cormac McCarthy;Post-apocalíptico;2006-09-26;Alfred A. Knopf;17.80
+23;El retrato de Dorian Gray;Oscar Wilde;Filosofía y horror;1890-07-20;Lippincott's Monthly Magazine;14.50
+24;El código Da Vinci;Dan Brown;Suspenso religioso;2003-03-18;Doubleday;16.30
+25;Cien Años de Soledad;Gabriel García Márquez;Novela mágica;1967-05-30;Sudamericana;20.50
