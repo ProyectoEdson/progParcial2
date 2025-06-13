@@ -13,7 +13,6 @@ public class Libro {
     protected String editorial;
     protected BigDecimal precio;
 
-    // Formateador para parsear fechas en formato YYYY-MM-DD
     private static final DateTimeFormatter DATE_FORMATTER = DateTimeFormatter.ofPattern("yyyy-MM-dd");
 
     public Libro(int id, String titulo, String autor, String genero, String fechaPublicacion, String editorial, BigDecimal precio) {
@@ -21,16 +20,20 @@ public class Libro {
         this.titulo = titulo;
         this.autor = autor;
         this.genero = genero;
+        // Se mantiene el parseo de la fecha en el constructor
         this.fechaPublicacion = LocalDate.parse(fechaPublicacion, DATE_FORMATTER);
         this.editorial = editorial;
         this.precio = precio;
     }
 
-    // Getters
+    // --- GETTERS PARA TODAS LAS PROPIEDADES (AQUÍ LA CORRECCIÓN) ---
     public int getId() { return id; }
     public String getTitulo() { return titulo; }
     public String getAutor() { return autor; }
+    public String getGenero() { return genero; }
+    public LocalDate getFechaPublicacion() { return fechaPublicacion; }
     public String getEditorial() { return editorial; }
+    public BigDecimal getPrecio() { return precio; }
 
     @Override
     public String toString() {
